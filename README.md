@@ -2,7 +2,7 @@
 
 Personal gym training checklist — a mobile-first web app for tracking workouts.
 
-**Live app:** https://jonathangarciaf.github.io/training-plan/
+**Live app:** https://jonathangarciaf.github.io/training-plan/gym.html
 
 ## What it does
 
